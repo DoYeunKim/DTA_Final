@@ -5,11 +5,11 @@ from nltk.tokenize import RegexpTokenizer
 import glob, os
 
 regxT = RegexpTokenizer(r'\w+')
-stop_words = set(stopwords.words('spanish'))
+sSW = set(stopwords.words('spanish'))
 #print(type(stop_words))
 additionalSW = set(['me', 'se', 'las', 'hacia', 'ser', 'los', 'hacer', 'en', 'don', 'así', 'podía'])
 #print(type(additionalSW))
-stop_words = stop_words|additionalSW
+sSW = sSW|additionalSW
 #print(type(stop_words))
 
 
@@ -49,7 +49,7 @@ for filename in glob.glob("*.txt"):
 	
 	prechunk = []
 	for tokens in file_words:
-		if (tokens not in stop_words):
+		if (tokens not in sSW):
 			prechunk.append(tokens)
 
 	print("There are " + str(len(prechunk)) + " non-stopword words in " + titles[-1])
@@ -62,9 +62,10 @@ for filename in glob.glob("*.txt"):
     
 #Define the maximum number of features to be considered
 no_features = 1000
-    
+   
+print(sSW) 
 # Create the Vector Space with CountVectorizers
-tf_vectorizer= CountVectorizer(max_df=0.95, min_df=2, max_features=no_features) #, stop_words='spanish')
+tf_vectorizer= CountVectorizer(max_df=0.95, min_df=2, max_features=no_features, stop_words=sSW)
 tf = tf_vectorizer.fit_transform(documents)
 tf_feature_names = tf_vectorizer.get_feature_names()
 
