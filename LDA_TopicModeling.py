@@ -4,11 +4,15 @@ from nltk.corpus import stopwords
 from nltk.tokenize import RegexpTokenizer
 import glob, os
 
+# Initialize regular expression tokenizer
 regxT = RegexpTokenizer(r'\w+')
+
+# We are using NLTK's spanish stop words and adding a few words that we think are missing from the provided set
 sSW = set(stopwords.words('spanish'))
 #print(type(stop_words))
 additionalSW = set(['me', 'se', 'las', 'hacia', 'ser', 'los', 'hacer', 'en', 'don', 'así', 'podía'])
 #print(type(additionalSW))
+# Concat the two sets
 sSW = sSW|additionalSW
 #print(type(stop_words))
 
@@ -19,6 +23,7 @@ def display_topics(model, feature_names, no_top_words, numT):
 		print ("Topic %d:" % (topic_idx))
 		print (" ".join([feature_names[i]+ ' ' + str(round(topic[i], 2))+' \n ' for i in topic.argsort()[:-no_top_words - 1:-1]]))
 
+		# Output the topics as files
 		textName = '../LDA_' + str(numT) + '_topics.txt'
 		with open(textName, 'a') as f:
 			print ("Topic %d:" % (topic_idx), file=f)
@@ -34,20 +39,20 @@ def chunks(l, n):
 os.chdir('./texts')
 
 documents = []
-titles = []
     
 # Lets create documents with 1000 words
 chunk_size = 1000
-    
+
+# Read in the text files    
 for filename in glob.glob("*.txt"):
 	## Open and read the file
 	file = open(filename, "r")
 	text = file.read()
-	titles.append(filename[:-4])
 
 	#Use tokenizer to split the file text into words
 	file_words = regxT.tokenize(text)
 	
+	# Remove stop words 
 	prechunk = []
 	for tokens in file_words:
 		if (tokens not in sSW):
@@ -64,12 +69,12 @@ for filename in glob.glob("*.txt"):
 #Define the maximum number of features to be considered
 no_features = 1000
    
-print(sSW) 
 # Create the Vector Space with CountVectorizers
 tf_vectorizer= CountVectorizer(max_df=0.95, min_df=2, max_features=no_features, stop_words=sSW)
 tf = tf_vectorizer.fit_transform(documents)
 tf_feature_names = tf_vectorizer.get_feature_names()
 
+# We want to see 5, 20, and 40 topics
 no_topics = [5, 20, 40]
 # Run LDA
 for num in no_topics:
