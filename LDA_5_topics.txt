@@ -1,0 +1,60 @@
+Topic 0:
+tita 559.81 
+  pedro 290.86 
+  mamá 200.91 
+  elena 192.71 
+  pues 160.82 
+  rosaura 136.48 
+  john 127.77 
+  tan 124.79 
+  cocina 124.46 
+  sólo 123.68 
+ 
+Topic 1:
+coronel 794.07 
+  dijo 711.72 
+  aureliano 711.55 
+  casa 605.2 
+  úrsula 501.07 
+  josé 443.51 
+  arcadio 419.93 
+  buendía 411.61 
+  entonces 334.91 
+  tan 324.18 
+ 
+Topic 2:
+vez 682.87 
+  ojos 681.55 
+  ahora 568.89 
+  dijo 568.8 
+  noche 533.55 
+  dos 521.15 
+  sólo 475.18 
+  mano 467.24 
+  usted 456.51 
+  después 442.6 
+ 
+Topic 3:
+azucena 530.34 
+  rodrigo 282.49 
+  isabel 274.3 
+  cuquita 219.74 
+  cuerpo 174.47 
+  vida 163.5 
+  pues 160.92 
+  alba 154.22 
+  jaime 133.38 
+  miguel 127.06 
+ 
+Topic 4:
+casa 856.65 
+  años 698.78 
+  ariza 678.47 
+  florentino 630.76 
+  vez 605.2 
+  daza 566.68 
+  después 557.33 
+  clara 554.81 
+  vida 520.66 
+  dos 511.86 
+ 

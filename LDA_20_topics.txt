@@ -1,0 +1,240 @@
+Topic 0:
+coronel 161.09 
+  aureliano 128.77 
+  buendía 94.79 
+  guerra 82.81 
+  remedios 63.2 
+  bella 44.64 
+  general 31.29 
+  amaranta 23.03 
+  macondo 22.87 
+  úrsula 18.17 
+ 
+Topic 1:
+ojos 594.9 
+  vez 535.74 
+  ahora 526.56 
+  usted 443.31 
+  noche 430.42 
+  aquí 420.41 
+  mano 417.09 
+  sólo 413.66 
+  dijo 393.3 
+  allí 377.58 
+ 
+Topic 2:
+dijo 216.03 
+  miguel 180.63 
+  santiago 162.49 
+  nasar 161.38 
+  vicario 161.26 
+  casa 86.46 
+  amanda 81.58 
+  puerta 77.28 
+  hermano 59.05 
+  pedro 50.34 
+ 
+Topic 3:
+clara 567.64 
+  blanca 358.0 
+  casa 315.74 
+  esteban 297.14 
+  trueba 245.96 
+  pedro 193.57 
+  vida 174.03 
+  día 172.02 
+  garcía 170.48 
+  madre 169.17 
+ 
+Topic 4:
+alba 165.85 
+  senador 70.44 
+  jaime 70.37 
+  gobierno 67.39 
+  presidente 66.61 
+  país 65.05 
+  guerra 59.57 
+  soldados 58.43 
+  miguel 54.79 
+  dijo 54.7 
+ 
+Topic 5:
+coronel 577.22 
+  dijo 379.45 
+  mujer 168.55 
+  gallo 126.43 
+  médico 74.4 
+  casa 65.47 
+  después 64.17 
+  compadre 58.07 
+  años 55.41 
+  dos 55.04 
+ 
+Topic 6:
+josé 436.59 
+  arcadio 414.0 
+  úrsula 326.2 
+  aureliano 283.41 
+  buendía 278.95 
+  casa 185.49 
+  amaranta 134.2 
+  rebeca 126.69 
+  macondo 104.21 
+  pueblo 84.71 
+ 
+Topic 7:
+casa 122.9 
+  casi 88.64 
+  iba 84.48 
+  dos 79.75 
+  puerta 78.63 
+  vez 74.43 
+  después 64.76 
+  segundo 64.59 
+  bien 63.69 
+  mamá 59.82 
+ 
+Topic 8:
+aureliano 0.05 
+  úrsula 0.05 
+  amaranta 0.05 
+  fernanda 0.05 
+  buendía 0.05 
+  tan 0.05 
+  macondo 0.05 
+  hijo 0.05 
+  dos 0.05 
+  marido 0.05 
+ 
+Topic 9:
+azucena 529.22 
+  rodrigo 269.52 
+  cuquita 219.4 
+  pues 155.83 
+  cuerpo 155.54 
+  vida 134.83 
+  cómo 97.33 
+  amor 96.77 
+  lugar 93.05 
+  momento 92.65 
+ 
+Topic 10:
+mujer 115.16 
+  dos 96.68 
+  hombre 78.94 
+  hombres 78.05 
+  mismo 71.7 
+  cada 69.87 
+  capitán 62.65 
+  años 61.03 
+  agua 60.65 
+  vez 57.57 
+ 
+Topic 11:
+pedro 241.91 
+  tita 238.66 
+  pues 137.82 
+  rosaura 120.64 
+  cocina 104.44 
+  gertrudis 97.03 
+  sólo 90.89 
+  día 89.63 
+  tan 87.66 
+  después 76.76 
+ 
+Topic 12:
+ariza 0.06 
+  florentino 0.06 
+  fermina 0.05 
+  daza 0.05 
+  tío 0.05 
+  tránsito 0.05 
+  alba 0.05 
+  dijo 0.05 
+  casa 0.05 
+  mujer 0.05 
+ 
+Topic 13:
+casa 748.33 
+  años 706.36 
+  vez 690.33 
+  después 636.59 
+  tan 634.62 
+  sólo 562.93 
+  dijo 562.26 
+  dos 528.08 
+  sino 507.72 
+  vida 501.3 
+ 
+Topic 14:
+daza 0.05 
+  clara 0.05 
+  fermina 0.05 
+  después 0.05 
+  rosa 0.05 
+  blanca 0.05 
+  nana 0.05 
+  casa 0.05 
+  vida 0.05 
+  familia 0.05 
+ 
+Topic 15:
+niño 148.37 
+  delia 98.63 
+  rema 79.29 
+  mario 73.36 
+  isabel 48.74 
+  luis 29.79 
+  casi 23.92 
+  dijo 23.25 
+  llanto 22.66 
+  noche 22.36 
+ 
+Topic 16:
+aureliano 295.99 
+  segundo 250.68 
+  fernanda 215.45 
+  úrsula 155.52 
+  amaranta 149.76 
+  meme 99.85 
+  entonces 62.09 
+  casa 59.48 
+  sino 59.0 
+  tiempo 57.73 
+ 
+Topic 17:
+tita 320.79 
+  elena 180.8 
+  mamá 131.4 
+  john 92.02 
+  chencha 71.1 
+  madre 47.13 
+  rancho 34.63 
+  pedro 33.7 
+  comida 27.7 
+  cuanto 26.72 
+ 
+Topic 18:
+isabel 176.17 
+  ex 55.41 
+  citlali 42.51 
+  rodrigo 11.81 
+  preguntó 4.37 
+  corrió 2.22 
+  matar 1.68 
+  muerta 1.41 
+  primeras 1.01 
+  azucena 1.0 
+ 
+Topic 19:
+ariza 677.55 
+  florentino 629.73 
+  daza 566.26 
+  fermina 482.15 
+  buque 77.34 
+  lorenzo 77.15 
+  amor 71.88 
+  viaje 69.06 
+  capitán 67.82 
+  urbino 64.94 
+ 
