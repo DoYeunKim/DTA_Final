@@ -6,6 +6,12 @@ import glob, os
 
 regxT = RegexpTokenizer(r'\w+')
 stop_words = set(stopwords.words('spanish'))
+#print(type(stop_words))
+additionalSW = set(['me', 'se', 'las', 'hacia', 'ser', 'los', 'hacer', 'en', 'don', 'así', 'podía'])
+#print(type(additionalSW))
+stop_words = stop_words|additionalSW
+#print(type(stop_words))
+
 
 ## Helper function to print the words of each topic
 def display_topics(model, feature_names, no_top_words):

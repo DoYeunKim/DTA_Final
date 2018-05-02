@@ -1,480 +1,480 @@
 Topic 0:
-tiempo 0.03 
-  años 0.03 
-  rosa 0.03 
-  trueba 0.03 
-  menos 0.03 
-  cuando 0.03 
-  cuerpo 0.03 
-  cada 0.03 
-  casa 0.03 
-  manos 0.03 
+ariza 678.77 
+  florentino 630.91 
+  daza 571.21 
+  fermina 486.92 
+  urbino 322.45 
+  doctor 311.34 
+  años 282.83 
+  sino 268.72 
+  amor 267.47 
+  tan 217.52 
  
 Topic 1:
-mujer 6.69 
-  mientras 5.73 
-  horas 4.78 
-  los 4.78 
-  dos 4.78 
-  huesos 4.78 
-  ojos 3.83 
-  sino 3.83 
-  hombre 3.83 
-  suelo 3.83 
+vez 862.15 
+  dos 556.89 
+  después 556.42 
+  casa 553.64 
+  noche 523.33 
+  tan 489.13 
+  tiempo 480.92 
+  la 467.3 
+  no 455.12 
+  en 415.4 
  
 Topic 2:
-tita 564.11 
-  pedro 283.68 
-  mamá 215.7 
-  elena 194.09 
-  pues 140.64 
-  rosaura 137.39 
-  john 128.62 
-  día 104.55 
-  cocina 104.53 
-  sólo 103.59 
+mujer 0.03 
+  la 0.03 
+  dos 0.03 
+  casa 0.03 
+  en 0.03 
+  vez 0.03 
+  día 0.03 
+  tan 0.03 
+  nicolás 0.03 
+  hijo 0.03 
  
 Topic 3:
-daza 0.03 
-  florentino 0.03 
-  ariza 0.03 
-  fermina 0.03 
-  capitán 0.03 
-  urbino 0.03 
-  río 0.03 
-  lorenzo 0.03 
-  buque 0.03 
-  juan 0.03 
+clara 355.48 
+  alba 324.48 
+  casa 318.06 
+  esteban 280.66 
+  blanca 272.59 
+  trueba 259.27 
+  en 214.24 
+  jaime 213.51 
+  vida 185.11 
+  día 180.13 
  
 Topic 4:
-dijo 169.16 
-  santiago 163.83 
-  nasar 162.67 
-  vicario 162.66 
-  delia 99.38 
-  casa 93.02 
-  puerta 69.88 
-  san 62.43 
-  pedro 49.51 
-  madre 48.27 
+niño 183.37 
+  rema 79.28 
+  puerta 73.4 
+  isabel 64.01 
+  casa 53.56 
+  lado 47.58 
+  casi 46.93 
+  comedor 44.7 
+  dijo 38.17 
+  luis 37.41 
  
 Topic 5:
-dulce 0.03 
-  rosa 0.03 
-  senador 0.03 
-  pudo 0.03 
-  tiempo 0.03 
-  jardín 0.03 
-  allí 0.03 
+esteban 0.03 
+  clara 0.03 
   casa 0.03 
-  años 0.03 
-  nadie 0.03 
+  se 0.03 
+  trueba 0.03 
+  no 0.03 
+  dos 0.03 
+  la 0.03 
+  tres 0.03 
+  las 0.03 
  
 Topic 6:
-blanca 340.87 
-  alba 333.07 
-  trueba 183.48 
-  miguel 171.48 
-  pedro 168.16 
-  garcía 149.03 
-  casa 139.77 
-  tercero 133.8 
-  abuelo 116.05 
-  senador 110.34 
+sólo 0.03 
+  la 0.03 
+  vez 0.03 
+  casa 0.03 
+  años 0.03 
+  madre 0.03 
+  en 0.03 
+  tiempo 0.03 
+  vida 0.03 
+  día 0.03 
  
 Topic 7:
-azucena 0.03 
-  cuquita 0.03 
-  rodrigo 0.03 
-  isabel 0.03 
-  alba 0.03 
-  en 0.03 
-  ex 0.03 
-  podía 0.03 
-  iba 0.03 
-  ojos 0.03 
+amanda 0.03 
+  nicolás 0.03 
+  capitán 0.03 
+  la 0.03 
+  cama 0.03 
+  entonces 0.03 
+  dijo 0.03 
+  mesa 0.03 
+  madre 0.03 
+  frente 0.03 
  
 Topic 8:
-ariza 661.3 
-  florentino 614.55 
-  daza 555.95 
-  fermina 473.62 
-  urbino 201.22 
-  amor 116.7 
-  juvenal 112.51 
-  lorenzo 89.14 
-  buque 76.39 
-  doctor 75.21 
+tita 555.47 
+  pedro 246.62 
+  mamá 192.77 
+  elena 192.53 
+  rosaura 132.87 
+  john 125.96 
+  cocina 90.98 
+  chencha 87.75 
+  gertrudis 79.89 
+  rancho 59.19 
  
 Topic 9:
-ojos 580.45 
-  vez 522.49 
-  ahora 496.99 
-  se 458.22 
-  pero 450.53 
-  usted 432.33 
-  hacia 424.69 
-  noche 423.76 
-  me 422.1 
-  aquí 407.55 
+coronel 664.93 
+  dijo 411.54 
+  mujer 164.61 
+  gallo 129.01 
+  la 92.46 
+  es 89.55 
+  pero 88.56 
+  no 83.17 
+  médico 77.36 
+  después 61.32 
  
 Topic 10:
-clara 0.03 
-  trueba 0.03 
-  tiempo 0.03 
-  rosa 0.03 
-  años 0.03 
-  ojos 0.03 
-  tres 0.03 
-  quería 0.03 
-  senador 0.03 
-  jaime 0.03 
+aureliano 673.21 
+  úrsula 418.8 
+  amaranta 305.89 
+  casa 294.02 
+  buendía 292.54 
+  segundo 240.46 
+  josé 208.09 
+  fernanda 197.95 
+  arcadio 185.71 
+  tiempo 161.27 
  
 Topic 11:
-daza 0.03 
-  fermina 0.03 
-  juvenal 0.03 
-  ariza 0.03 
-  dos 0.03 
-  se 0.03 
-  florentino 0.03 
-  nicolás 0.03 
-  años 0.03 
-  mujer 0.03 
+clara 0.03 
+  férula 0.03 
+  esteban 0.03 
+  rosa 0.03 
+  casa 0.03 
+  blanca 0.03 
+  quedó 0.03 
+  nana 0.03 
+  en 0.03 
+  hermana 0.03 
  
 Topic 12:
-blanca 0.03 
-  jean 0.03 
-  me 0.03 
+clara 0.03 
+  blanca 0.03 
+  la 0.03 
+  alba 0.03 
+  años 0.03 
+  madre 0.03 
   casa 0.03 
-  se 0.03 
-  mujer 0.03 
-  maría 0.03 
-  clara 0.03 
-  en 0.03 
-  vida 0.03 
+  padre 0.03 
+  hija 0.03 
+  trueba 0.03 
  
 Topic 13:
-se 0.03 
-  vez 0.03 
-  vida 0.03 
-  jaime 0.03 
-  casa 0.03 
-  mujer 0.03 
-  esteban 0.03 
-  hacer 0.03 
-  los 0.03 
+ariza 0.04 
+  florentino 0.04 
+  daza 0.03 
+  fermina 0.03 
+  tía 0.03 
+  en 0.03 
+  años 0.03 
   dos 0.03 
+  rebeca 0.03 
+  sin 0.03 
  
 Topic 14:
-clara 470.32 
-  esteban 216.81 
-  casa 168.23 
-  férula 125.59 
-  rosa 120.46 
-  en 115.48 
-  madre 103.61 
-  se 96.82 
-  trueba 93.11 
-  tres 92.48 
+daza 0.03 
+  fermina 0.03 
+  florentino 0.03 
+  ariza 0.03 
+  aureliano 0.03 
+  úrsula 0.03 
+  amaranta 0.03 
+  alba 0.03 
+  pudo 0.03 
+  hombre 0.03 
  
 Topic 15:
-guerra 101.77 
-  capitán 74.45 
-  aureliano 72.82 
-  pueblo 69.84 
-  soldados 60.51 
-  en 47.8 
-  general 41.19 
-  hombres 40.52 
-  don 37.38 
-  armas 34.76 
+mesa 0.03 
+  después 0.03 
+  mismo 0.03 
+  dinero 0.03 
+  fernanda 0.03 
+  podían 0.03 
+  duda 0.03 
+  muerto 0.03 
+  las 0.03 
+  rancho 0.03 
  
 Topic 16:
-daza 0.03 
-  nasar 0.03 
-  santiago 0.03 
-  blanca 0.03 
-  alba 0.03 
-  clara 0.03 
-  esteban 0.03 
-  trueba 0.03 
-  casa 0.03 
-  se 0.03 
+nicolás 16.8 
+  hijo 14.36 
+  trueba 12.26 
+  vida 7.73 
+  casa 7.39 
+  esteban 7.3 
+  padre 6.7 
+  en 6.39 
+  fiesta 6.03 
+  jaime 5.09 
  
 Topic 17:
-clara 0.03 
-  casa 0.03 
-  años 0.03 
-  en 0.03 
-  jaime 0.03 
-  dos 0.03 
-  después 0.03 
-  dijo 0.03 
+blanca 0.03 
+  garcía 0.03 
+  pedro 0.03 
   esteban 0.03 
-  sólo 0.03 
+  clara 0.03 
+  madre 0.03 
+  trueba 0.03 
+  viejo 0.03 
+  tres 0.03 
+  casa 0.03 
  
 Topic 18:
-casa 0.03 
-  alba 0.03 
-  se 0.03 
-  día 0.03 
-  tres 0.03 
-  vez 0.03 
-  clara 0.03 
-  tiempo 0.03 
-  nadie 0.03 
-  las 0.03 
+dijo 301.82 
+  la 283.19 
+  no 281.79 
+  se 264.02 
+  después 237.05 
+  allí 230.33 
+  pero 217.27 
+  pedro 207.86 
+  agua 203.68 
+  luego 197.65 
  
 Topic 19:
-clara 0.03 
-  nana 0.03 
-  casa 0.03 
-  alba 0.03 
-  se 0.03 
-  blanca 0.03 
-  día 0.03 
-  tres 0.03 
-  trueba 0.03 
-  rosa 0.03 
+clara 207.83 
+  rosa 127.57 
+  hija 85.6 
+  san 80.93 
+  madre 74.12 
+  niña 69.16 
+  familia 68.18 
+  nana 54.58 
+  años 49.62 
+  la 41.36 
  
 Topic 20:
-mujer 0.03 
-  demás 0.03 
-  siempre 0.03 
-  hombre 0.03 
-  mientras 0.03 
-  puso 0.03 
-  vez 0.03 
-  sólo 0.03 
-  levantó 0.03 
-  decir 0.03 
+azucena 530.17 
+  no 286.23 
+  rodrigo 282.31 
+  la 280.95 
+  pues 232.24 
+  cuquita 219.57 
+  isabel 211.67 
+  cuerpo 199.15 
+  en 177.48 
+  vida 177.3 
  
 Topic 21:
-tránsito 78.37 
-  abuelo 0.03 
-  nunca 0.03 
-  casa 0.03 
-  vez 0.03 
-  después 0.03 
-  siempre 0.03 
-  nieta 0.03 
-  así 0.03 
-  pobre 0.03 
+patrón 47.38 
+  no 16.23 
+  leche 10.13 
+  aquí 8.29 
+  quisiera 6.7 
+  van 5.5 
+  marías 5.13 
+  nadie 5.04 
+  cómo 4.67 
+  podían 4.61 
  
 Topic 22:
-nicolás 125.31 
-  jaime 121.08 
-  amanda 84.36 
-  hermano 32.31 
-  clara 21.86 
-  joven 21.83 
-  hijo 20.63 
-  madre 18.96 
-  casa 17.63 
-  miguel 13.77 
+clara 0.03 
+  no 0.03 
+  esteban 0.03 
+  la 0.03 
+  se 0.03 
+  madre 0.03 
+  casa 0.03 
+  trueba 0.03 
+  elena 0.03 
+  vida 0.03 
  
 Topic 23:
-azucena 534.4 
-  rodrigo 282.57 
-  cuquita 221.28 
-  isabel 220.51 
-  pues 160.32 
-  cuerpo 157.07 
-  vida 135.72 
-  en 128.89 
-  ser 120.69 
-  podía 115.42 
+me 0.03 
+  miguel 0.03 
+  no 0.03 
+  gente 0.03 
+  mientras 0.03 
+  vez 0.03 
+  dijo 0.03 
+  día 0.03 
+  después 0.03 
+  tránsito 0.03 
  
 Topic 24:
-tiempo 0.03 
-  ver 0.03 
-  nadie 0.03 
-  día 0.03 
+rosa 0.03 
   clara 0.03 
-  era 0.03 
   noche 0.03 
-  cabeza 0.03 
-  trueba 0.03 
   años 0.03 
+  nunca 0.03 
+  dos 0.03 
+  la 0.03 
+  haber 0.03 
+  muerte 0.03 
+  sólo 0.03 
  
 Topic 25:
-aureliano 0.03 
-  segundo 0.03 
-  úrsula 0.03 
-  fernanda 0.03 
-  clara 0.03 
-  pedro 0.03 
-  vida 0.03 
-  arcadio 0.03 
-  podía 0.03 
-  hija 0.03 
+santiago 162.57 
+  nasar 161.35 
+  vicario 161.12 
+  dijo 134.17 
+  casa 48.68 
+  puerta 48.67 
+  pedro 39.24 
+  plaza 27.28 
+  boda 24.0 
+  matar 22.86 
  
 Topic 26:
-mujer 0.03 
-  vez 0.03 
-  hijos 0.03 
-  nunca 0.03 
-  mientras 0.03 
-  sólo 0.03 
-  años 0.03 
-  dolor 0.03 
-  ver 0.03 
-  cada 0.03 
+no 879.57 
+  usted 357.42 
+  ojos 336.51 
+  ahora 305.2 
+  me 280.51 
+  mano 261.37 
+  cómo 256.48 
+  sólo 251.87 
+  aquí 247.86 
+  yo 247.68 
  
 Topic 27:
-aureliano 0.03 
-  úrsula 0.03 
-  arcadio 0.03 
-  buendía 0.03 
-  josé 0.03 
-  amaranta 0.03 
+blanca 0.03 
+  garcía 0.03 
+  pedro 0.03 
+  esteban 0.03 
   casa 0.03 
-  rebeca 0.03 
-  macondo 0.03 
-  melquíades 0.03 
+  siempre 0.03 
+  ariza 0.03 
+  clara 0.03 
+  jean 0.03 
+  trueba 0.03 
  
 Topic 28:
-josé 357.17 
-  arcadio 338.08 
-  buendía 218.33 
-  úrsula 204.66 
-  aureliano 126.88 
-  rebeca 125.09 
-  casa 92.56 
-  amaranta 87.41 
-  melquíades 60.98 
-  macondo 47.62 
+tío 141.93 
+  luis 36.67 
+  padre 25.32 
+  años 16.6 
+  hijo 16.34 
+  plaza 11.56 
+  solamente 8.03 
+  hombre 7.98 
+  capital 7.67 
+  podría 7.44 
  
 Topic 29:
-aureliano 511.55 
-  segundo 305.25 
-  úrsula 291.1 
-  amaranta 218.46 
-  fernanda 217.52 
-  casa 184.36 
-  buendía 164.78 
-  coronel 120.3 
-  tan 114.85 
-  josé 113.81 
+blanca 122.04 
+  jean 72.37 
+  marido 20.86 
+  capitán 15.54 
+  matrimonio 13.65 
+  hija 11.62 
+  mesa 11.5 
+  no 9.7 
+  padre 9.41 
+  se 9.39 
  
 Topic 30:
-garcía 0.03 
-  pedro 0.03 
-  tres 0.03 
-  tercero 0.03 
-  años 0.03 
-  en 0.03 
-  blanca 0.03 
-  se 0.03 
-  esteban 0.03 
-  mundo 0.03 
+en 0.03 
+  amanda 0.03 
+  agua 0.03 
+  tiempo 0.03 
+  no 0.03 
+  casa 0.03 
+  ojos 0.03 
+  nicolás 0.03 
+  por 0.03 
+  vez 0.03 
  
 Topic 31:
-alba 0.03 
-  garcía 0.03 
-  miguel 0.03 
-  tita 0.03 
-  podía 0.03 
-  dos 0.03 
+clara 0.03 
   casa 0.03 
-  baño 0.03 
-  sintió 0.03 
-  dijo 0.03 
+  no 0.03 
+  la 0.03 
+  trueba 0.03 
+  tiempo 0.03 
+  en 0.03 
+  sólo 0.03 
+  vez 0.03 
+  nunca 0.03 
  
 Topic 32:
-en 0.03 
-  nadie 0.03 
-  vez 0.03 
-  tan 0.03 
-  hombre 0.03 
-  se 0.03 
-  noche 0.03 
-  cada 0.03 
-  gente 0.03 
-  después 0.03 
+férula 0.03 
+  clara 0.03 
+  arcadio 0.03 
+  esteban 0.03 
+  úrsula 0.03 
+  blanca 0.03 
+  casa 0.03 
+  buendía 0.03 
+  dijo 0.03 
+  en 0.03 
  
 Topic 33:
-coronel 683.69 
-  dijo 504.46 
-  mujer 184.89 
-  gallo 121.54 
-  pero 115.14 
-  es 108.33 
-  después 88.55 
-  médico 83.87 
-  casa 81.49 
-  se 79.73 
+clara 0.03 
+  nieta 0.03 
+  casa 0.03 
+  años 0.03 
+  pedro 0.03 
+  me 0.03 
+  esteban 0.03 
+  la 0.03 
+  alba 0.03 
+  dijo 0.03 
  
 Topic 34:
-pedro 0.03 
-  garcía 0.03 
-  los 0.03 
-  mujer 0.03 
-  tres 0.03 
-  años 0.03 
-  las 0.03 
-  maría 0.03 
-  era 0.03 
-  sólo 0.03 
+la 0.03 
+  en 0.03 
+  día 0.03 
+  me 0.03 
+  casa 0.03 
+  vida 0.03 
+  no 0.03 
+  vez 0.03 
+  nunca 0.03 
+  tránsito 0.03 
  
 Topic 35:
-niño 190.69 
-  casi 87.63 
-  rema 79.91 
-  lado 78.57 
-  luis 77.0 
-  bien 57.16 
-  dijo 54.75 
-  isabel 54.7 
-  dos 49.26 
-  después 46.09 
+amaranta 0.03 
+  aureliano 0.03 
+  úrsula 0.03 
+  pedro 0.03 
+  alba 0.03 
+  dijo 0.03 
+  tercero 0.03 
+  la 0.03 
+  ver 0.03 
+  blanca 0.03 
  
 Topic 36:
-aureliano 0.03 
-  casa 0.03 
-  en 0.03 
+no 0.03 
+  amanda 0.03 
+  vez 0.03 
+  nicolás 0.03 
+  la 0.03 
+  cabeza 0.03 
   tan 0.03 
-  segundo 0.03 
-  clara 0.03 
-  se 0.03 
-  úrsula 0.03 
-  fernanda 0.03 
-  tiempo 0.03 
+  casa 0.03 
+  dos 0.03 
+  alguna 0.03 
  
 Topic 37:
 blanca 0.03 
-  en 0.03 
-  podía 0.03 
-  casa 0.03 
-  clara 0.03 
-  esteban 0.03 
+  no 0.03 
+  tercero 0.03 
   vida 0.03 
+  pedro 0.03 
+  casa 0.03 
+  después 0.03 
+  jean 0.03 
   trueba 0.03 
-  amanda 0.03 
-  vez 0.03 
+  la 0.03 
  
 Topic 38:
-vez 835.15 
-  casa 817.4 
-  años 780.05 
-  después 682.23 
-  tan 628.02 
-  dos 616.39 
-  sólo 572.69 
-  en 561.09 
-  siempre 546.17 
-  vida 540.45 
+josé 257.13 
+  arcadio 234.04 
+  casa 128.29 
+  buendía 112.7 
+  la 101.93 
+  tan 89.16 
+  en 86.08 
+  entonces 83.72 
+  años 83.3 
+  úrsula 81.12 
  
 Topic 39:
-rosa 0.03 
-  florentino 0.03 
-  ariza 0.03 
-  nana 0.03 
-  daza 0.03 
+clara 0.03 
   fermina 0.03 
-  doctor 0.03 
-  salón 0.03 
-  cada 0.03 
-  misma 0.03 
+  día 0.03 
+  la 0.03 
+  mujer 0.03 
+  daza 0.03 
+  vez 0.03 
+  casa 0.03 
+  amanda 0.03 
+  no 0.03 
  
