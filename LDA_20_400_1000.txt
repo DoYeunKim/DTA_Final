@@ -1,0 +1,240 @@
+Topic 0:
+buendía 0.05 
+  arcadio 0.05 
+  úrsula 0.05 
+  aureliano 0.05 
+  fernanda 0.05 
+  años 0.05 
+  rebeca 0.05 
+  meme 0.05 
+  padre 0.05 
+  amaranta 0.05 
+ 
+Topic 1:
+blanca 372.12 
+  tercero 128.01 
+  jean 79.6 
+  hija 53.83 
+  marido 31.56 
+  matrimonio 12.34 
+  calor 4.36 
+  ocasiones 2.13 
+  vientre 1.85 
+  habitación 0.05 
+ 
+Topic 2:
+aureliano 435.24 
+  josé 428.8 
+  arcadio 399.24 
+  buendía 333.19 
+  úrsula 301.06 
+  segundo 261.76 
+  casa 200.03 
+  coronel 134.16 
+  macondo 123.93 
+  tiempo 108.47 
+ 
+Topic 3:
+amaranta 0.05 
+  casa 0.05 
+  dijo 0.05 
+  úrsula 0.05 
+  tan 0.05 
+  años 0.05 
+  aureliano 0.05 
+  vez 0.05 
+  ojos 0.05 
+  abuelo 0.05 
+ 
+Topic 4:
+casa 804.69 
+  vez 760.47 
+  años 732.62 
+  después 683.15 
+  tan 659.85 
+  sólo 615.64 
+  dos 614.12 
+  siempre 533.63 
+  entonces 504.02 
+  vida 467.76 
+ 
+Topic 5:
+tita 398.35 
+  pedro 235.5 
+  rosaura 130.0 
+  pues 114.37 
+  john 105.18 
+  gertrudis 99.05 
+  cocina 87.8 
+  sólo 70.71 
+  tiempo 65.1 
+  día 60.03 
+ 
+Topic 6:
+casa 394.21 
+  alba 343.01 
+  trueba 287.22 
+  día 244.07 
+  jaime 224.71 
+  vida 198.03 
+  madre 194.87 
+  pedro 193.86 
+  años 191.75 
+  tres 186.69 
+ 
+Topic 7:
+elena 191.33 
+  mamá 173.89 
+  tita 166.69 
+  madre 82.77 
+  niño 37.74 
+  casa 37.36 
+  día 35.48 
+  chencha 33.01 
+  tan 31.96 
+  doctor 31.04 
+ 
+Topic 8:
+ojos 485.82 
+  mano 406.13 
+  sólo 312.72 
+  hombre 266.85 
+  manos 253.29 
+  vida 241.26 
+  cuerpo 236.0 
+  ahora 220.06 
+  dos 216.85 
+  cómo 215.74 
+ 
+Topic 9:
+vez 220.21 
+  dos 187.79 
+  casi 172.72 
+  bien 160.97 
+  lado 157.29 
+  después 156.69 
+  dijo 145.91 
+  noche 144.03 
+  iba 142.52 
+  ahora 139.23 
+ 
+Topic 10:
+aureliano 267.03 
+  amaranta 239.05 
+  úrsula 195.57 
+  fernanda 126.14 
+  rebeca 118.23 
+  meme 99.26 
+  remedios 77.96 
+  buendía 71.27 
+  casa 66.89 
+  entonces 63.0 
+ 
+Topic 11:
+usted 368.15 
+  aquí 353.95 
+  allí 247.45 
+  allá 234.15 
+  dijo 222.95 
+  vez 208.42 
+  ahora 207.42 
+  después 202.11 
+  entonces 198.84 
+  padre 187.8 
+ 
+Topic 12:
+azucena 535.63 
+  rodrigo 283.94 
+  isabel 280.01 
+  cuquita 221.64 
+  pues 152.67 
+  cuerpo 141.21 
+  vida 120.57 
+  citlali 99.57 
+  momento 90.51 
+  amor 89.09 
+ 
+Topic 13:
+dijo 179.6 
+  santiago 176.92 
+  nasar 176.04 
+  vicario 176.04 
+  puerta 62.12 
+  casa 56.33 
+  pedro 43.81 
+  vio 35.53 
+  madre 34.45 
+  maría 33.38 
+ 
+Topic 14:
+ariza 648.13 
+  florentino 603.07 
+  daza 543.79 
+  fermina 465.08 
+  urbino 278.91 
+  amor 177.95 
+  dijo 152.57 
+  juvenal 147.13 
+  pues 95.27 
+  doctor 83.96 
+ 
+Topic 15:
+delia 99.57 
+  mario 74.17 
+  madre 13.24 
+  casa 12.21 
+  dijo 10.3 
+  ahora 9.87 
+  veces 9.84 
+  noche 9.61 
+  sala 8.8 
+  nunca 8.21 
+ 
+Topic 16:
+coronel 556.91 
+  dijo 375.59 
+  mujer 169.79 
+  gallo 120.8 
+  médico 76.84 
+  después 62.6 
+  casa 59.39 
+  compadre 55.38 
+  dos 49.33 
+  años 48.48 
+ 
+Topic 17:
+tita 0.05 
+  pedro 0.05 
+  blanca 0.05 
+  madre 0.05 
+  después 0.05 
+  casa 0.05 
+  años 0.05 
+  ojos 0.05 
+  rosaura 0.05 
+  vez 0.05 
+ 
+Topic 18:
+guerra 163.08 
+  capitán 108.42 
+  presidente 85.67 
+  coronel 73.91 
+  gobierno 68.63 
+  soldados 61.53 
+  general 56.44 
+  país 44.41 
+  hombres 38.61 
+  dijo 36.96 
+ 
+Topic 19:
+clara 454.72 
+  esteban 224.92 
+  férula 128.11 
+  tren 14.83 
+  san 12.82 
+  doña 11.84 
+  casarse 8.19 
+  recordaba 7.02 
+  infancia 5.33 
+  orgullo 3.96 
+ 

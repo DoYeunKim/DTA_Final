@@ -24,7 +24,7 @@ def display_topics(model, feature_names, no_top_words, numT):
 		print (" ".join([feature_names[i]+ ' ' + str(round(topic[i], 2))+' \n ' for i in topic.argsort()[:-no_top_words - 1:-1]]))
 
 		# Output the topics as files
-		textName = '../LDA_' + str(numT) + '_topics.txt'
+		textName = '../LDA_' + str(numT) + '_' + str(max_iter) + '_' + str(chunk_size) + '.txt'
 		with open(textName, 'a') as f:
 			print ("Topic %d:" % (topic_idx), file=f)
 			print (" ".join([feature_names[i]+ ' ' + str(round(topic[i], 2))+' \n ' for i in topic.argsort()[:-no_top_words - 1:-1]]), file=f)
@@ -41,7 +41,8 @@ os.chdir('./texts')
 documents = []
     
 # Lets create documents with 1000 words
-chunk_size = 1000
+chunk_size = 2000
+max_iter = 400
 
 # Read in the text files    
 for filename in glob.glob("*.txt"):
@@ -73,7 +74,7 @@ tf = tf_vectorizer.fit_transform(documents)
 tf_feature_names = tf_vectorizer.get_feature_names()
 
 # We want to see 5, 20, and 40 topics
-no_topics = [80]
+no_topics = [40, 60, 80]
 # Run LDA
 for num in no_topics:
 	lda = LatentDirichletAllocation(n_topics=num, max_iter=400).fit(tf)
