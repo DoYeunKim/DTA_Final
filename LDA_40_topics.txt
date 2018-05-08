@@ -478,3 +478,483 @@ segundo 179.16
   aurellano 16.67 
   taller 16.5 
  
+Topic 0:
+diez 0.03 
+  ojo 0.03 
+  solamente 0.03 
+  ventanas 0.03 
+  caballos 0.03 
+  forma 0.03 
+  rodillas 0.03 
+  salir 0.03 
+  mayor 0.03 
+  buscó 0.03 
+ 
+Topic 1:
+guerra 163.44 
+  presidente 87.41 
+  hombres 87.31 
+  gobierno 82.88 
+  soldados 77.35 
+  país 73.5 
+  pueblo 71.25 
+  general 68.65 
+  armas 67.46 
+  sólo 59.94 
+ 
+Topic 2:
+primera 5.03 
+  pueblo 4.55 
+  vez 3.34 
+  entonces 3.07 
+  siguió 2.71 
+  volvió 2.62 
+  alguien 2.5 
+  país 2.32 
+  blanca 2.31 
+  única 2.23 
+ 
+Topic 3:
+casa 0.03 
+  mismo 0.03 
+  día 0.03 
+  vez 0.03 
+  vida 0.03 
+  miguel 0.03 
+  dijo 0.03 
+  hombre 0.03 
+  después 0.03 
+  noche 0.03 
+ 
+Topic 4:
+casa 0.03 
+  mujer 0.03 
+  aire 0.03 
+  manos 0.03 
+  dejó 0.03 
+  iba 0.03 
+  pasó 0.03 
+  mismo 0.03 
+  allí 0.03 
+  jardín 0.03 
+ 
+Topic 5:
+rosa 137.74 
+  clara 100.37 
+  niña 85.08 
+  severo 74.02 
+  hija 62.58 
+  casa 56.32 
+  tío 51.79 
+  nana 47.98 
+  pelo 46.38 
+  hermana 46.23 
+ 
+Topic 6:
+tita 564.96 
+  pedro 272.01 
+  mamá 213.15 
+  elena 194.98 
+  rosaura 137.6 
+  pues 133.79 
+  john 127.85 
+  gertrudis 100.63 
+  cocina 97.37 
+  chencha 88.81 
+ 
+Topic 7:
+isabel 0.03 
+  rema 0.03 
+  años 0.03 
+  casa 0.03 
+  día 0.03 
+  nadie 0.03 
+  siempre 0.03 
+  ex 0.03 
+  clara 0.03 
+  tierra 0.03 
+ 
+Topic 8:
+nicolás 0.03 
+  vida 0.03 
+  día 0.03 
+  sólo 0.03 
+  vez 0.03 
+  detuvo 0.03 
+  cada 0.03 
+  pueblo 0.03 
+  entonces 0.03 
+  mujer 0.03 
+ 
+Topic 9:
+azucena 535.61 
+  rodrigo 246.75 
+  cuquita 221.61 
+  isabel 197.55 
+  pues 150.38 
+  cuerpo 130.71 
+  vida 103.14 
+  momento 85.82 
+  ex 84.91 
+  cómo 84.45 
+ 
+Topic 10:
+alba 0.03 
+  miguel 0.03 
+  dijo 0.03 
+  jaime 0.03 
+  mujer 0.03 
+  años 0.03 
+  gertrudis 0.03 
+  ojos 0.03 
+  pudo 0.03 
+  tita 0.03 
+ 
+Topic 11:
+aureliano 701.65 
+  úrsula 496.55 
+  josé 454.85 
+  arcadio 416.09 
+  buendía 403.22 
+  amaranta 304.23 
+  segundo 294.55 
+  casa 270.36 
+  macondo 176.22 
+  entonces 155.63 
+ 
+Topic 12:
+niño 182.89 
+  casi 120.6 
+  lado 94.0 
+  dijo 83.74 
+  rema 80.03 
+  luis 77.01 
+  dos 72.05 
+  bien 70.75 
+  veces 62.99 
+  después 62.69 
+ 
+Topic 13:
+dijo 184.57 
+  santiago 176.9 
+  nasar 176.01 
+  vicario 176.01 
+  puerta 68.6 
+  casa 65.58 
+  pedro 52.0 
+  plaza 34.62 
+  madre 33.28 
+  matar 30.96 
+ 
+Topic 14:
+ojos 582.6 
+  ahora 525.11 
+  vez 481.39 
+  usted 458.17 
+  aquí 416.42 
+  cómo 380.22 
+  noche 376.14 
+  mano 375.04 
+  manos 363.35 
+  sólo 362.19 
+ 
+Topic 15:
+marido 0.03 
+  años 0.03 
+  verano 0.03 
+  toda 0.03 
+  sólo 0.03 
+  vez 0.03 
+  tan 0.03 
+  tiempo 0.03 
+  mujer 0.03 
+  nadie 0.03 
+ 
+Topic 16:
+tita 0.03 
+  rodrigo 0.03 
+  casa 0.03 
+  pedro 0.03 
+  día 0.03 
+  citlali 0.03 
+  dos 0.03 
+  vez 0.03 
+  clara 0.03 
+  rosaura 0.03 
+ 
+Topic 17:
+años 0.03 
+  dos 0.03 
+  tan 0.03 
+  casa 0.03 
+  blanca 0.03 
+  cada 0.03 
+  dijo 0.03 
+  vez 0.03 
+  después 0.03 
+  entonces 0.03 
+ 
+Topic 18:
+clara 390.65 
+  esteban 196.95 
+  férula 125.64 
+  trueba 60.11 
+  madre 45.11 
+  casa 36.22 
+  campo 35.4 
+  dos 34.66 
+  nana 33.41 
+  vida 31.26 
+ 
+Topic 19:
+coronel 673.59 
+  dijo 366.65 
+  mujer 161.44 
+  gallo 125.59 
+  médico 68.43 
+  compadre 56.91 
+  casa 55.42 
+  después 52.78 
+  años 44.32 
+  dos 43.92 
+ 
+Topic 20:
+arcadio 0.03 
+  buendía 0.03 
+  josé 0.03 
+  hombre 0.03 
+  elena 0.03 
+  madre 0.03 
+  dos 0.03 
+  úrsula 0.03 
+  tita 0.03 
+  años 0.03 
+ 
+Topic 21:
+fernanda 175.79 
+  meme 99.23 
+  hija 23.44 
+  amaranta 0.03 
+  aureliano 0.03 
+  vez 0.03 
+  pensamiento 0.03 
+  segundo 0.03 
+  sólo 0.03 
+  años 0.03 
+ 
+Topic 22:
+clara 0.03 
+  esteban 0.03 
+  casa 0.03 
+  trueba 0.03 
+  día 0.03 
+  vida 0.03 
+  nana 0.03 
+  años 0.03 
+  tres 0.03 
+  mujer 0.03 
+ 
+Topic 23:
+rodrigo 0.03 
+  capitán 0.03 
+  cuquita 0.03 
+  mujer 0.03 
+  delia 0.03 
+  nunca 0.03 
+  niña 0.03 
+  nave 0.03 
+  entonces 0.03 
+  vida 0.03 
+ 
+Topic 24:
+rosa 0.03 
+  casa 0.03 
+  tan 0.03 
+  cuerpo 0.03 
+  noche 0.03 
+  hijos 0.03 
+  hombres 0.03 
+  ojos 0.03 
+  pesar 0.03 
+  dios 0.03 
+ 
+Topic 25:
+jaime 193.9 
+  nicolás 141.52 
+  amanda 90.25 
+  clara 65.59 
+  casa 60.77 
+  madre 58.79 
+  trueba 46.13 
+  padre 41.79 
+  hijo 40.75 
+  hermano 38.03 
+ 
+Topic 26:
+alba 0.03 
+  miguel 0.03 
+  día 0.03 
+  casa 0.03 
+  dijo 0.03 
+  blanca 0.03 
+  garcía 0.03 
+  trueba 0.03 
+  idea 0.03 
+  vez 0.03 
+ 
+Topic 27:
+clara 0.03 
+  pedro 0.03 
+  esteban 0.03 
+  meme 0.03 
+  blanca 0.03 
+  casa 0.03 
+  garcía 0.03 
+  vida 0.03 
+  vez 0.03 
+  mujer 0.03 
+ 
+Topic 28:
+blanca 0.03 
+  pesar 0.03 
+  policía 0.03 
+  vida 0.03 
+  cada 0.03 
+  tan 0.03 
+  después 0.03 
+  hombre 0.03 
+  hacía 0.03 
+  amor 0.03 
+ 
+Topic 29:
+casa 519.81 
+  vez 501.48 
+  siempre 442.65 
+  después 411.76 
+  años 386.47 
+  nunca 384.89 
+  vida 369.36 
+  tan 342.06 
+  tiempo 323.1 
+  iba 318.81 
+ 
+Topic 30:
+ariza 648.03 
+  florentino 602.19 
+  daza 319.31 
+  fermina 304.19 
+  amor 145.8 
+  dijo 96.09 
+  pues 82.45 
+  buque 78.38 
+  capitán 66.06 
+  modo 63.63 
+ 
+Topic 31:
+doctor 334.28 
+  urbino 309.09 
+  daza 224.48 
+  fermina 160.89 
+  juvenal 154.12 
+  lorenzo 98.68 
+  sino 72.15 
+  médico 68.23 
+  ciudad 52.66 
+  sido 46.16 
+ 
+Topic 32:
+aureliano 0.03 
+  úrsula 0.03 
+  amaranta 0.03 
+  fernanda 0.03 
+  casa 0.03 
+  buendía 0.03 
+  arcadio 0.03 
+  clara 0.03 
+  aurellano 0.03 
+  santa 0.03 
+ 
+Topic 33:
+día 0.03 
+  clara 0.03 
+  cabeza 0.03 
+  tiempo 0.03 
+  sólo 0.03 
+  férula 0.03 
+  trueba 0.03 
+  tan 0.03 
+  vez 0.03 
+  años 0.03 
+ 
+Topic 34:
+delia 99.55 
+  mario 74.15 
+  citlali 58.24 
+  energía 49.87 
+  nunca 38.89 
+  rodrigo 38.22 
+  amor 37.27 
+  lugar 34.85 
+  tiempo 30.99 
+  luz 27.11 
+ 
+Topic 35:
+senador 0.03 
+  llamó 0.03 
+  mejor 0.03 
+  razón 0.03 
+  boca 0.03 
+  marías 0.03 
+  años 0.03 
+  bueno 0.03 
+  solo 0.03 
+  ayuda 0.03 
+ 
+Topic 36:
+blanca 343.79 
+  alba 321.48 
+  pedro 226.53 
+  garcía 184.37 
+  trueba 181.01 
+  miguel 172.97 
+  tercero 141.84 
+  casa 138.36 
+  día 132.21 
+  abuelo 123.75 
+ 
+Topic 37:
+jaime 0.03 
+  amanda 0.03 
+  alba 0.03 
+  miguel 0.03 
+  nicolás 0.03 
+  casa 0.03 
+  cada 0.03 
+  vez 0.03 
+  tío 0.03 
+  dijo 0.03 
+ 
+Topic 38:
+años 591.76 
+  dos 523.65 
+  vez 521.62 
+  casa 516.39 
+  después 477.42 
+  dijo 426.09 
+  noche 390.02 
+  sólo 370.04 
+  entonces 367.35 
+  tan 332.6 
+ 
+Topic 39:
+arcadio 0.03 
+  buendía 0.03 
+  úrsula 0.03 
+  mujer 0.03 
+  josé 0.03 
+  clara 0.03 
+  blanca 0.03 
+  marido 0.03 
+  años 0.03 
+  casa 0.03 
+ 

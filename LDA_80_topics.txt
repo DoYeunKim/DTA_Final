@@ -1,0 +1,1248 @@
+Topic 0:
+siempre 0.01 
+  palabras 0.01 
+  bajo 0.01 
+  tan 0.01 
+  cada 0.01 
+  primeros 0.01 
+  piel 0.01 
+  gallinas 0.01 
+  años 0.01 
+  situación 0.01 
+ 
+Topic 1:
+hermano 118.11 
+  palabra 42.49 
+  madre 41.17 
+  hermana 27.33 
+  sala 19.03 
+  cada 13.9 
+  últimos 11.76 
+  veía 7.09 
+  niño 6.92 
+  sentía 6.86 
+ 
+Topic 2:
+día 0.01 
+  después 0.01 
+  vez 0.01 
+  alba 0.01 
+  vida 0.01 
+  años 0.01 
+  voz 0.01 
+  hombre 0.01 
+  amor 0.01 
+  casa 0.01 
+ 
+Topic 3:
+alba 0.01 
+  casa 0.01 
+  clara 0.01 
+  esteban 0.01 
+  garcía 0.01 
+  jardín 0.01 
+  años 0.01 
+  pudo 0.01 
+  después 0.01 
+  vez 0.01 
+ 
+Topic 4:
+casa 1113.37 
+  vez 866.6 
+  años 829.86 
+  tan 804.38 
+  después 712.59 
+  sólo 680.01 
+  tiempo 673.3 
+  siempre 604.99 
+  dos 598.46 
+  vida 595.96 
+ 
+Topic 5:
+podido 0.01 
+  tomó 0.01 
+  par 0.01 
+  cielo 0.01 
+  seda 0.01 
+  siento 0.01 
+  cabello 0.01 
+  debe 0.01 
+  poner 0.01 
+  verlo 0.01 
+ 
+Topic 6:
+casa 0.01 
+  tercero 0.01 
+  severo 0.01 
+  pedro 0.01 
+  blanca 0.01 
+  dejaron 0.01 
+  boca 0.01 
+  ver 0.01 
+  dio 0.01 
+  nana 0.01 
+ 
+Topic 7:
+amanda 0.01 
+  nicolás 0.01 
+  vez 0.01 
+  casa 0.01 
+  hermano 0.01 
+  cada 0.01 
+  jaime 0.01 
+  dijo 0.01 
+  entonces 0.01 
+  dos 0.01 
+ 
+Topic 8:
+azucena 535.59 
+  rodrigo 284.94 
+  isabel 221.98 
+  cuquita 221.6 
+  pues 152.38 
+  cuerpo 141.62 
+  vida 115.95 
+  citlali 99.53 
+  momento 87.36 
+  amor 85.93 
+ 
+Topic 9:
+sólo 0.01 
+  hombre 0.01 
+  después 0.01 
+  dos 0.01 
+  miguel 0.01 
+  vez 0.01 
+  voz 0.01 
+  tan 0.01 
+  manos 0.01 
+  años 0.01 
+ 
+Topic 10:
+clara 0.01 
+  rojo 0.01 
+  patrón 0.01 
+  casa 0.01 
+  mejor 0.01 
+  hablar 0.01 
+  tránsito 0.01 
+  dije 0.01 
+  demasiado 0.01 
+  hombre 0.01 
+ 
+Topic 11:
+niño 239.11 
+  luis 80.39 
+  rema 80.02 
+  isabel 55.42 
+  llanto 29.03 
+  hotel 26.68 
+  tan 23.62 
+  comedor 22.04 
+  lado 20.2 
+  casi 18.72 
+ 
+Topic 12:
+blanca 0.01 
+  clara 0.01 
+  jean 0.01 
+  padre 0.01 
+  alba 0.01 
+  casa 0.01 
+  esteban 0.01 
+  trueba 0.01 
+  madre 0.01 
+  pedro 0.01 
+ 
+Topic 13:
+blanca 161.35 
+  tercero 119.89 
+  pedro 112.57 
+  comedor 16.32 
+  tres 15.43 
+  marías 13.1 
+  hija 12.82 
+  dejaron 9.52 
+  traje 8.15 
+  solo 7.81 
+ 
+Topic 14:
+guerra 188.06 
+  presidente 81.43 
+  soldados 81.08 
+  gobierno 80.56 
+  hombres 72.5 
+  general 68.09 
+  armas 56.42 
+  país 54.2 
+  pueblo 50.87 
+  calle 47.15 
+ 
+Topic 15:
+senador 0.01 
+  años 0.01 
+  rosa 0.01 
+  sólo 0.01 
+  padre 0.01 
+  tiempo 0.01 
+  cosas 0.01 
+  después 0.01 
+  país 0.01 
+  trueba 0.01 
+ 
+Topic 16:
+alba 0.01 
+  garcía 0.01 
+  tío 0.01 
+  casa 0.01 
+  sintió 0.01 
+  elena 0.01 
+  hombre 0.01 
+  aire 0.01 
+  miguel 0.01 
+  jardín 0.01 
+ 
+Topic 17:
+doctor 437.43 
+  urbino 284.68 
+  juvenal 136.44 
+  médico 106.8 
+  dijo 81.68 
+  daza 70.9 
+  fermina 53.68 
+  ciudad 47.52 
+  hizo 43.3 
+  coche 43.28 
+ 
+Topic 18:
+amanda 0.01 
+  nicolás 0.01 
+  entonces 0.01 
+  clara 0.01 
+  suficiente 0.01 
+  niño 0.01 
+  dijo 0.01 
+  hermano 0.01 
+  ojos 0.01 
+  tres 0.01 
+ 
+Topic 19:
+nicolás 0.01 
+  tres 0.01 
+  viva 0.01 
+  natural 0.01 
+  día 0.01 
+  dando 0.01 
+  hermano 0.01 
+  silla 0.01 
+  tocar 0.01 
+  salvo 0.01 
+ 
+Topic 20:
+noche 0.01 
+  alba 0.01 
+  miguel 0.01 
+  jaime 0.01 
+  vez 0.01 
+  cada 0.01 
+  día 0.01 
+  después 0.01 
+  abuelo 0.01 
+  madre 0.01 
+ 
+Topic 21:
+coronel 780.79 
+  dijo 478.88 
+  segundo 302.31 
+  fernanda 213.93 
+  mujer 193.1 
+  aureliano 133.38 
+  casa 124.84 
+  gallo 120.89 
+  remedios 113.6 
+  meme 99.22 
+ 
+Topic 22:
+aureliano 0.01 
+  clara 0.01 
+  casa 0.01 
+  fernanda 0.01 
+  vez 0.01 
+  esteban 0.01 
+  santa 0.01 
+  úrsula 0.01 
+  férula 0.01 
+  amaranta 0.01 
+ 
+Topic 23:
+ariza 200.58 
+  florentino 175.24 
+  tío 82.27 
+  maestro 46.25 
+  amor 39.1 
+  años 37.61 
+  dijo 37.02 
+  siempre 27.95 
+  oficina 27.94 
+  dos 25.48 
+ 
+Topic 0:
+clara 0.01 
+  familia 0.01 
+  misma 0.01 
+  palabras 0.01 
+  siempre 0.01 
+  después 0.01 
+  dos 0.01 
+  días 0.01 
+  coronel 0.01 
+  sólo 0.01 
+ 
+Topic 1:
+blanca 0.01 
+  clara 0.01 
+  viejo 0.01 
+  madre 0.01 
+  pedro 0.01 
+  garcía 0.01 
+  familia 0.01 
+  todas 0.01 
+  vida 0.01 
+  casa 0.01 
+ 
+Topic 2:
+aureliano 695.24 
+  úrsula 496.5 
+  josé 459.05 
+  arcadio 415.93 
+  buendía 393.22 
+  amaranta 304.2 
+  segundo 293.08 
+  fernanda 213.93 
+  casa 190.45 
+  macondo 173.91 
+ 
+Topic 3:
+capitán 163.01 
+  buque 90.32 
+  puerto 26.03 
+  domingo 5.37 
+  cuya 4.84 
+  cerrados 4.68 
+  cuyo 3.63 
+  policía 2.54 
+  detuvo 1.89 
+  país 0.02 
+ 
+Topic 4:
+clara 563.82 
+  esteban 276.69 
+  trueba 147.91 
+  casa 130.77 
+  férula 128.07 
+  tres 113.66 
+  garcía 104.32 
+  vida 97.81 
+  rosa 95.62 
+  marías 81.95 
+ 
+Topic 5:
+mujer 0.01 
+  sólo 0.01 
+  día 0.01 
+  agua 0.01 
+  años 0.01 
+  nadie 0.01 
+  vez 0.01 
+  muchacha 0.01 
+  tan 0.01 
+  hombre 0.01 
+ 
+Topic 6:
+historia 0.01 
+  carne 0.01 
+  clara 0.01 
+  iglesia 0.01 
+  severo 0.01 
+  años 0.01 
+  misa 0.01 
+  familia 0.01 
+  trueba 0.01 
+  salvo 0.01 
+ 
+Topic 7:
+aire 0.01 
+  mujer 0.01 
+  casa 0.01 
+  jaime 0.01 
+  sólo 0.01 
+  presidente 0.01 
+  mientras 0.01 
+  dijo 0.01 
+  manos 0.01 
+  ojos 0.01 
+ 
+Topic 8:
+tiempo 0.01 
+  tita 0.01 
+  buendía 0.01 
+  arcadio 0.01 
+  casa 0.01 
+  años 0.01 
+  padre 0.01 
+  úrsula 0.01 
+  vez 0.01 
+  agua 0.01 
+ 
+Topic 9:
+marido 0.01 
+  años 0.01 
+  hijo 0.01 
+  día 0.01 
+  mujer 0.01 
+  casa 0.01 
+  vida 0.01 
+  vez 0.01 
+  dos 0.01 
+  tan 0.01 
+ 
+Topic 10:
+años 0.01 
+  noche 0.01 
+  vez 0.01 
+  tiempo 0.01 
+  mientras 0.01 
+  ojos 0.01 
+  dio 0.01 
+  azucena 0.01 
+  aire 0.01 
+  mujer 0.01 
+ 
+Topic 11:
+clara 0.01 
+  rosa 0.01 
+  veces 0.01 
+  hija 0.01 
+  esteban 0.01 
+  años 0.01 
+  hizo 0.01 
+  silencio 0.01 
+  padre 0.01 
+  siempre 0.01 
+ 
+Topic 12:
+ojos 582.81 
+  mano 472.8 
+  manos 333.15 
+  sólo 314.34 
+  vez 304.31 
+  ahora 296.34 
+  dos 291.47 
+  cuerpo 288.77 
+  cabeza 273.45 
+  tiempo 263.76 
+ 
+Topic 13:
+años 0.01 
+  dos 0.01 
+  negro 0.01 
+  casa 0.01 
+  mujer 0.01 
+  nicolás 0.01 
+  mismo 0.01 
+  día 0.01 
+  vez 0.01 
+  tiempo 0.01 
+ 
+Topic 14:
+clara 0.01 
+  niña 0.01 
+  capitán 0.01 
+  vez 0.01 
+  férula 0.01 
+  madre 0.01 
+  tiempo 0.01 
+  padre 0.01 
+  palabras 0.01 
+  blanca 0.01 
+ 
+Topic 15:
+santa 0.01 
+  agua 0.01 
+  siempre 0.01 
+  dos 0.01 
+  día 0.01 
+  misma 0.01 
+  hijo 0.01 
+  años 0.01 
+  pueblo 0.01 
+  mujer 0.01 
+ 
+Topic 16:
+alba 9.03 
+  trueba 8.91 
+  jaime 8.74 
+  presidente 6.17 
+  clara 5.75 
+  dijo 5.46 
+  miguel 3.89 
+  esteban 3.87 
+  senador 3.86 
+  mano 3.81 
+ 
+Topic 17:
+casa 0.01 
+  clara 0.01 
+  ariza 0.01 
+  años 0.01 
+  blanca 0.01 
+  madre 0.01 
+  remedios 0.01 
+  tiempo 0.01 
+  ojos 0.01 
+  siempre 0.01 
+ 
+Topic 18:
+nicolás 0.01 
+  pueblo 0.01 
+  hombre 0.01 
+  coche 0.01 
+  detuvo 0.01 
+  sólo 0.01 
+  único 0.01 
+  mirada 0.01 
+  capital 0.01 
+  salió 0.01 
+ 
+Topic 19:
+coronel 0.01 
+  dos 0.01 
+  hombre 0.01 
+  palabras 0.01 
+  sólo 0.01 
+  después 0.01 
+  abuela 0.01 
+  años 0.01 
+  vieron 0.01 
+  aire 0.01 
+ 
+Topic 20:
+dos 0.01 
+  casa 0.01 
+  hombres 0.01 
+  ver 0.01 
+  viaje 0.01 
+  suelo 0.01 
+  ojos 0.01 
+  sino 0.01 
+  gente 0.01 
+  dormido 0.01 
+ 
+Topic 21:
+casa 0.01 
+  años 0.01 
+  agua 0.01 
+  santa 0.01 
+  cada 0.01 
+  dos 0.01 
+  hombre 0.01 
+  padre 0.01 
+  noche 0.01 
+  nadie 0.01 
+ 
+Topic 22:
+tita 564.95 
+  pedro 258.36 
+  elena 194.97 
+  mamá 189.44 
+  rosaura 137.59 
+  pues 129.59 
+  john 127.84 
+  gertrudis 100.61 
+  cocina 94.62 
+  sólo 89.01 
+ 
+Topic 23:
+tan 0.01 
+  vez 0.01 
+  ojos 0.01 
+  amanda 0.01 
+  dos 0.01 
+  entonces 0.01 
+  siempre 0.01 
+  casa 0.01 
+  cada 0.01 
+  nicolás 0.01 
+ 
+Topic 24:
+casa 0.01 
+  madre 0.01 
+  niña 0.01 
+  hombre 0.01 
+  mano 0.01 
+  elena 0.01 
+  cuerpo 0.01 
+  años 0.01 
+  nicolás 0.01 
+  dos 0.01 
+ 
+Topic 25:
+delia 99.53 
+  mario 74.13 
+  gesto 7.98 
+  golpe 6.38 
+  manera 5.29 
+  cosas 5.19 
+  domingo 3.26 
+  primeros 2.96 
+  nunca 0.01 
+  hablar 0.01 
+ 
+Topic 26:
+clara 0.01 
+  miguel 0.01 
+  esteban 0.01 
+  años 0.01 
+  vez 0.01 
+  dijo 0.01 
+  toda 0.01 
+  casa 0.01 
+  día 0.01 
+  trueba 0.01 
+ 
+Topic 27:
+niños 119.46 
+  abuelo 55.53 
+  palabra 29.69 
+  dinero 26.96 
+  viejo 22.15 
+  nieta 15.68 
+  puede 14.56 
+  nunca 13.69 
+  camino 12.82 
+  armas 9.37 
+ 
+Topic 28:
+abuelo 0.01 
+  morir 0.01 
+  mujeres 0.01 
+  dijo 0.01 
+  nunca 0.01 
+  miguel 0.01 
+  ojos 0.01 
+  cada 0.01 
+  mano 0.01 
+  todas 0.01 
+ 
+Topic 29:
+ojos 0.01 
+  siempre 0.01 
+  fin 0.01 
+  hacían 0.01 
+  años 0.01 
+  decidió 0.01 
+  puedo 0.01 
+  sintió 0.01 
+  dormir 0.01 
+  cierta 0.01 
+ 
+Topic 30:
+clara 0.01 
+  esteban 0.01 
+  férula 0.01 
+  casa 0.01 
+  dos 0.01 
+  ojos 0.01 
+  año 0.01 
+  trueba 0.01 
+  nuevo 0.01 
+  dio 0.01 
+ 
+Topic 31:
+clara 0.01 
+  casa 0.01 
+  amanda 0.01 
+  esteban 0.01 
+  vez 0.01 
+  jaime 0.01 
+  nicolás 0.01 
+  blanca 0.01 
+  noche 0.01 
+  día 0.01 
+ 
+Topic 32:
+azucena 535.59 
+  rodrigo 284.94 
+  isabel 284.0 
+  cuquita 221.6 
+  pues 155.65 
+  cuerpo 148.77 
+  vida 122.17 
+  citlali 99.53 
+  lugar 90.09 
+  amor 87.17 
+ 
+Topic 33:
+blanca 0.01 
+  jean 0.01 
+  después 0.01 
+  pedro 0.01 
+  vida 0.01 
+  casa 0.01 
+  tiempo 0.01 
+  familia 0.01 
+  noche 0.01 
+  años 0.01 
+ 
+Topic 34:
+clara 0.01 
+  niña 0.01 
+  vida 0.01 
+  casa 0.01 
+  padre 0.01 
+  nunca 0.01 
+  madre 0.01 
+  día 0.01 
+  dijo 0.01 
+  tiempo 0.01 
+ 
+Topic 35:
+clara 0.01 
+  años 0.01 
+  casa 0.01 
+  mujer 0.01 
+  día 0.01 
+  vida 0.01 
+  dijo 0.01 
+  esteban 0.01 
+  pueblo 0.01 
+  padre 0.01 
+ 
+Topic 36:
+doctor 462.24 
+  urbino 270.98 
+  juvenal 124.83 
+  médico 101.07 
+  casa 64.8 
+  severo 58.56 
+  dijo 57.91 
+  ciudad 52.69 
+  coche 46.94 
+  muerte 45.45 
+ 
+Topic 37:
+esteban 0.01 
+  años 0.01 
+  tiempo 0.01 
+  casa 0.01 
+  vez 0.01 
+  madre 0.01 
+  garcía 0.01 
+  tres 0.01 
+  dijo 0.01 
+  trueba 0.01 
+ 
+Topic 38:
+coronel 799.76 
+  dijo 437.07 
+  mujer 180.15 
+  gallo 123.14 
+  después 70.86 
+  médico 66.31 
+  casa 60.93 
+  años 57.89 
+  compadre 55.63 
+  dos 50.94 
+ 
+Topic 39:
+esteban 0.01 
+  férula 0.01 
+  casa 0.01 
+  madre 0.01 
+  tiempo 0.01 
+  tres 0.01 
+  clara 0.01 
+  dos 0.01 
+  días 0.01 
+  trueba 0.01 
+ 
+Topic 40:
+ariza 648.09 
+  florentino 603.04 
+  daza 543.75 
+  fermina 465.04 
+  amor 231.01 
+  sino 202.01 
+  tan 176.21 
+  dijo 168.32 
+  años 143.36 
+  pues 138.25 
+ 
+Topic 41:
+guerra 192.62 
+  pueblo 94.97 
+  gobierno 87.18 
+  país 79.93 
+  soldados 79.54 
+  presidente 69.99 
+  armas 60.71 
+  militar 45.72 
+  fuerzas 37.09 
+  sólo 35.34 
+ 
+Topic 42:
+nicolás 0.01 
+  hijo 0.01 
+  trueba 0.01 
+  vez 0.01 
+  muebles 0.01 
+  casa 0.01 
+  esteban 0.01 
+  nadie 0.01 
+  casi 0.01 
+  jaime 0.01 
+ 
+Topic 43:
+resto 0.01 
+  rancho 0.01 
+  año 0.01 
+  rato 0.01 
+  jamás 0.01 
+  carta 0.01 
+  atrás 0.01 
+  recibir 0.01 
+  bastante 0.01 
+  memoria 0.01 
+ 
+Topic 44:
+bien 300.98 
+  ahora 295.93 
+  usted 272.28 
+  vez 236.61 
+  tan 209.72 
+  cosa 204.74 
+  sé 188.55 
+  cosas 187.55 
+  cómo 183.93 
+  dijo 164.42 
+ 
+Topic 45:
+jaime 158.31 
+  nicolás 138.55 
+  amanda 80.49 
+  hermano 31.7 
+  joven 25.79 
+  trueba 22.01 
+  miguel 21.25 
+  madre 13.36 
+  libros 11.67 
+  alrededor 9.56 
+ 
+Topic 46:
+pedro 0.01 
+  alba 0.01 
+  blanca 0.01 
+  trueba 0.01 
+  nicolás 0.01 
+  tercero 0.01 
+  vez 0.01 
+  casa 0.01 
+  padre 0.01 
+  senador 0.01 
+ 
+Topic 47:
+alba 35.02 
+  jaime 25.25 
+  miguel 17.01 
+  puertas 9.81 
+  amanda 8.78 
+  gente 8.13 
+  mujeres 6.92 
+  alto 6.84 
+  ojos 5.72 
+  mujer 5.68 
+ 
+Topic 48:
+nasar 0.01 
+  santiago 0.01 
+  vicario 0.01 
+  dijo 0.01 
+  puerto 0.01 
+  modos 0.01 
+  dos 0.01 
+  apareció 0.01 
+  casa 0.01 
+  vez 0.01 
+ 
+Topic 49:
+tío 185.26 
+  padre 36.63 
+  siempre 25.69 
+  decía 15.31 
+  habitación 13.59 
+  veía 12.47 
+  tierra 11.51 
+  alba 10.87 
+  toda 10.84 
+  año 9.16 
+ 
+Topic 50:
+casa 1147.08 
+  vez 917.95 
+  años 792.66 
+  después 783.06 
+  dos 762.32 
+  día 678.19 
+  tiempo 646.88 
+  tan 612.66 
+  siempre 585.15 
+  nadie 537.79 
+ 
+Topic 51:
+niño 329.46 
+  juan 89.19 
+  madre 31.66 
+  ciudad 28.51 
+  primera 16.92 
+  año 15.76 
+  casa 15.34 
+  libro 11.76 
+  criatura 11.11 
+  trabajo 10.64 
+ 
+Topic 52:
+aquí 238.2 
+  allí 210.82 
+  pedro 190.03 
+  allá 185.39 
+  padre 167.54 
+  luego 156.56 
+  usted 149.75 
+  tierra 147.05 
+  después 131.16 
+  dijo 121.85 
+ 
+Topic 53:
+echó 0.01 
+  ocasiones 0.01 
+  tercero 0.01 
+  felicidad 0.01 
+  razón 0.01 
+  buque 0.01 
+  dicho 0.01 
+  llevar 0.01 
+  gritos 0.01 
+  ocasión 0.01 
+ 
+Topic 54:
+ariza 0.01 
+  florentino 0.01 
+  daza 0.01 
+  fermina 0.01 
+  casa 0.01 
+  mientras 0.01 
+  amanda 0.01 
+  dijo 0.01 
+  levantó 0.01 
+  joven 0.01 
+ 
+Topic 55:
+madre 0.01 
+  años 0.01 
+  tiempo 0.01 
+  olor 0.01 
+  esteban 0.01 
+  tiempos 0.01 
+  vida 0.01 
+  siquiera 0.01 
+  casa 0.01 
+  pasado 0.01 
+ 
+Topic 56:
+blanca 10.77 
+  jaime 10.66 
+  alba 8.81 
+  rosa 6.52 
+  casa 5.9 
+  años 5.35 
+  después 5.12 
+  clara 4.92 
+  manos 4.89 
+  tiempo 4.16 
+ 
+Topic 57:
+luis 0.01 
+  cada 0.01 
+  hombre 0.01 
+  años 0.01 
+  coronel 0.01 
+  tiempo 0.01 
+  palabras 0.01 
+  sólo 0.01 
+  día 0.01 
+  vez 0.01 
+ 
+Topic 58:
+amaranta 0.01 
+  úrsula 0.01 
+  aureliano 0.01 
+  rebeca 0.01 
+  buendía 0.01 
+  arcadio 0.01 
+  remedios 0.01 
+  josé 0.01 
+  alba 0.01 
+  noche 0.01 
+ 
+Topic 59:
+dijo 182.46 
+  santiago 176.89 
+  nasar 176.0 
+  vicario 176.0 
+  puerta 56.66 
+  plaza 49.19 
+  casa 47.37 
+  maría 45.46 
+  pedro 43.54 
+  hermano 30.75 
+ 
+Topic 60:
+alba 218.31 
+  miguel 192.09 
+  abuela 67.32 
+  abuelo 57.91 
+  dijo 56.87 
+  garcía 44.16 
+  día 36.58 
+  nieta 28.95 
+  sintió 24.15 
+  pudo 21.69 
+ 
+Topic 61:
+tiempo 0.01 
+  esteban 0.01 
+  trueba 0.01 
+  garcía 0.01 
+  vida 0.01 
+  noche 0.01 
+  dio 0.01 
+  día 0.01 
+  patrón 0.01 
+  comenzó 0.01 
+ 
+Topic 62:
+dos 0.01 
+  después 0.01 
+  tarde 0.01 
+  mujer 0.01 
+  años 0.01 
+  país 0.01 
+  siempre 0.01 
+  hombre 0.01 
+  médico 0.01 
+  entonces 0.01 
+ 
+Topic 63:
+madre 0.01 
+  esteban 0.01 
+  clara 0.01 
+  casa 0.01 
+  puerta 0.01 
+  años 0.01 
+  blanca 0.01 
+  día 0.01 
+  vez 0.01 
+  niña 0.01 
+ 
+Topic 64:
+muerte 138.14 
+  sólo 61.71 
+  allá 36.72 
+  amor 33.45 
+  horas 23.01 
+  espíritu 22.71 
+  libro 17.08 
+  viejos 14.17 
+  debe 11.84 
+  problema 9.72 
+ 
+Topic 65:
+años 0.01 
+  esteban 0.01 
+  férula 0.01 
+  vida 0.01 
+  dos 0.01 
+  única 0.01 
+  casa 0.01 
+  día 0.01 
+  vio 0.01 
+  sólo 0.01 
+ 
+Topic 66:
+elena 0.01 
+  madre 0.01 
+  casa 0.01 
+  cada 0.01 
+  todavía 0.01 
+  sólo 0.01 
+  techo 0.01 
+  día 0.01 
+  vez 0.01 
+  largo 0.01 
+ 
+Topic 67:
+años 0.01 
+  bien 0.01 
+  hombre 0.01 
+  día 0.01 
+  casa 0.01 
+  vez 0.01 
+  marido 0.01 
+  ver 0.01 
+  después 0.01 
+  voy 0.01 
+ 
+Topic 68:
+blanca 0.01 
+  dinero 0.01 
+  sacó 0.01 
+  vida 0.01 
+  presidente 0.01 
+  alguna 0.01 
+  mil 0.01 
+  cada 0.01 
+  mientras 0.01 
+  senador 0.01 
+ 
+Topic 69:
+pedro 0.01 
+  siempre 0.01 
+  garcía 0.01 
+  existencia 0.01 
+  cuerpo 0.01 
+  único 0.01 
+  esteban 0.01 
+  trueba 0.01 
+  segundo 0.01 
+  alrededor 0.01 
+ 
+Topic 70:
+casa 0.01 
+  vez 0.01 
+  abuelo 0.01 
+  cada 0.01 
+  tal 0.01 
+  clara 0.01 
+  día 0.01 
+  años 0.01 
+  misma 0.01 
+  hijos 0.01 
+ 
+Topic 71:
+clara 0.01 
+  dos 0.01 
+  casa 0.01 
+  cada 0.01 
+  mujer 0.01 
+  toda 0.01 
+  esteban 0.01 
+  cama 0.01 
+  ir 0.01 
+  vida 0.01 
+ 
+Topic 72:
+férula 0.01 
+  vicario 0.01 
+  esteban 0.01 
+  años 0.01 
+  día 0.01 
+  casa 0.01 
+  clara 0.01 
+  nasar 0.01 
+  vida 0.01 
+  después 0.01 
+ 
+Topic 73:
+clara 0.01 
+  blanca 0.01 
+  trueba 0.01 
+  casa 0.01 
+  años 0.01 
+  alba 0.01 
+  esteban 0.01 
+  familia 0.01 
+  vida 0.01 
+  después 0.01 
+ 
+Topic 74:
+amanda 0.01 
+  nicolás 0.01 
+  entonces 0.01 
+  nunca 0.01 
+  primera 0.01 
+  blanca 0.01 
+  casa 0.01 
+  vez 0.01 
+  parecía 0.01 
+  imposible 0.01 
+ 
+Topic 75:
+daza 0.01 
+  ariza 0.01 
+  florentino 0.01 
+  dos 0.01 
+  lorenzo 0.01 
+  años 0.01 
+  esteban 0.01 
+  clara 0.01 
+  casa 0.01 
+  madre 0.01 
+ 
+Topic 76:
+blanca 143.65 
+  pedro 104.14 
+  tercero 102.96 
+  senador 90.93 
+  trueba 89.25 
+  alba 77.92 
+  nieta 32.16 
+  garcía 28.07 
+  viejo 27.31 
+  tres 22.55 
+ 
+Topic 77:
+pueblo 0.01 
+  vez 0.01 
+  mujer 0.01 
+  triste 0.01 
+  nicolás 0.01 
+  años 0.01 
+  hombres 0.01 
+  único 0.01 
+  nombre 0.01 
+  hijo 0.01 
+ 
+Topic 78:
+miguel 0.01 
+  abuelo 0.01 
+  mano 0.01 
+  alba 0.01 
+  país 0.01 
+  dijo 0.01 
+  mundo 0.01 
+  consuelo 0.01 
+  después 0.01 
+  mujeres 0.01 
+ 
+Topic 79:
+blanca 182.42 
+  jean 79.57 
+  marido 23.94 
+  casa 18.54 
+  tercero 16.06 
+  pedro 15.89 
+  hija 15.07 
+  puerta 14.72 
+  padre 14.21 
+  indios 13.68 
+ 

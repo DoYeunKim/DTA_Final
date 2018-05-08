@@ -58,8 +58,6 @@ for filename in glob.glob("*.txt"):
 		if (tokens not in sSW):
 			prechunk.append(tokens)
 
-	print("There are " + str(len(prechunk)) + " non-stopword words in " + titles[-1])
-
 	# Now we will partion the file into documents of the size size (chunk_size)
 	words_chunks = list(chunks(prechunk,chunk_size))  
 	for i in range(len(words_chunks)):
@@ -75,13 +73,14 @@ tf = tf_vectorizer.fit_transform(documents)
 tf_feature_names = tf_vectorizer.get_feature_names()
 
 # We want to see 5, 20, and 40 topics
-no_topics = [5, 20, 40]
+no_topics = [80]
 # Run LDA
 for num in no_topics:
-	lda = LatentDirichletAllocation(n_topics=num, max_iter=50).fit(tf)
+	lda = LatentDirichletAllocation(n_topics=num, max_iter=400).fit(tf)
 
 	no_top_words = 10
 	display_topics(lda, tf_feature_names, no_top_words, num)
 
 	lda.perplexity(tf)
+	print("Done with " + str(num) + " topics")
 
